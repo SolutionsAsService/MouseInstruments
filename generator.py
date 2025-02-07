@@ -1,4 +1,4 @@
-vfrom PIL import Image, ImageDraw
+from PIL import Image, ImageDraw
 
 # Define image size
 width, height = 64, 64  # Size for the instrument sprite
